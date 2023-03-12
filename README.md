@@ -3,6 +3,8 @@
 <!--
 **Sergii0625/Sergii0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
